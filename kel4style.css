@@ -307,8 +307,9 @@ a:link {
     background-image: url(images2/footer-bg.jpg);
     background-size: cover;
     color: black;
-    font-family: Helvetica, sans-serif;
+    font-family: monospace;
     text-align: left;
+   
 
  }
 .fa-facebook {
@@ -356,6 +357,16 @@ a:link {
  .fa-tiktok{
     color:black;
     margin-left: 2%;
+ }
+
+ .Namakel {
+    font-family: monospace;
+    color: black;
+    padding-left: 10px;
+    padding-bottom: 1%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
  }
 
 
